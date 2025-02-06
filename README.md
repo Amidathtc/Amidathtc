@@ -1,4 +1,4 @@
-# Hi, I'm Amidat! 👋  
+g# Hi, I'm Amidat! 👋  
 
 🚀 **Backend Developer | Node.js | Express | PostgreSQL | MongoDB**  
 
@@ -20,6 +20,16 @@
 ### 📌 Pinned Projects  
 🚀 **[E-Commerce Backend API](https://github.com/Amidathtc/ecommerce-backend)**  
 🔐 **[Authentication System](https://github.com/Amidathtc/auth-system)**  
+
+## 📊 GitHub Stats  
+![Hameedah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amidathtc&show_icons=true&theme=radical)  
+
+## 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amidathtc&theme=radical)  
+
+## 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Amidathtc&theme=radical)  
+
 
 ---
 ⭐ **Check out my GitHub repos and let's build something amazing!**  
